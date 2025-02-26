@@ -1,0 +1,9 @@
+[
+        {
+                        "name":"Test"
+                		"uniques":[
+                                    "Founds a new puppet city <upon conquering a city> <while the empire is happy>",
+                            ]
+                        "unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+        }
+]
