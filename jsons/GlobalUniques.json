@@ -2,6 +2,6 @@
     "name": "Global uniques",
     "uniques": [
         "May not annex cities <for [Human player] Civilizations>",
-        "Cities are razed [-1] times as fast",
+        "Cities are razed [0.5] times as fast",
     ]
 }
